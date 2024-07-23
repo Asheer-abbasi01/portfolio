@@ -1,0 +1,33 @@
+.p_block{
+    border: 1px solid rgb(226, 221, 221);
+    padding: 7px;
+    box-shadow: 1 1 1px;
+}
+
+.header, h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px;
+}
+.hrading, button{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0px;
+    background-color: white;
+}
+
+.img2 img{
+    width: 100%;
+    padding-bottom: 10px;
+}
+.img3 img{
+    width: 100%;
+    padding-bottom: 10px;
+
+}
+
+.img1 img{
+    width: 100%;
+    padding-bottom: 10px;
+
+}
